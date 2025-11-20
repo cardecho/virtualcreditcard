@@ -8,7 +8,9 @@
 
 注册好以后，网页左上角选择 “买币--->C2C买币”，如图：
 
-![image-20251120202557653](https://raw.githubusercontent.com/cardecho/image/main/image/image-20251120202557653.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cardecho/image/main/image/image-20251120202557653.png" width="70%">
+</p>
 
 不建议使用“快捷交易”，因为价格会比较贵，选择中间的“C2C”，如图：
 
