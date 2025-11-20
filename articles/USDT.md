@@ -26,7 +26,10 @@
 
 点网站右上角的“资产管理”，然后选择“提币”，如图：
 
-![image-20251120203504728](https://raw.githubusercontent.com/cardecho/image/main/image/image-20251120203504728.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cardecho/image/main/image/image-20251120203504728.png" width="70%">
+</p>
+
 
 然后依次选择币种--->"USDT"，网络“Tron(TRC20)”，输入提币地址以及提币数量，记得点一下“修改到帐数量”，否则可能延迟到帐，确保到帐数量与你要充值的数量一致。
 
