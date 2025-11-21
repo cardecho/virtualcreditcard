@@ -20,7 +20,7 @@
 - 美国亚马逊卖家、买家，Prime会员，德国，卢森堡，新加坡，法国，英国，澳大利亚，日本亚马逊买家
 - Facebook
 - PayPal：US、UK、Malaysia、Belgium、香港PayPal
-- www.alibaba.com(阿里国际站)，www.aliexpress.com(速卖通)，WISH，LAZADA，DHgate
+- alibaba(阿里国际站)，aliexpress(速卖通)，WISH，LAZADA，DHgate
 - Medium、MERCARI
 - Supreme、Yeezy、Foot Locker、Nike
 - Ebay UK
@@ -31,7 +31,7 @@
 
 ## 注册
 
-注册很简单，邮箱+密码即可
+注册很简单，邮箱+密码即可：https://www.cardecho.com/index/Index/signIn.html
 
 ## 充值
 
