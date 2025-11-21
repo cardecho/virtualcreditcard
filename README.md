@@ -50,7 +50,9 @@
 
 这里简单演示一下如何在租房网站上找别墅地址。打开上面的网站以后，在搜索栏输入免税州的州名，例如：Oregon
 
-![img](https://raw.githubusercontent.com/cardecho/image/main/image/zillow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cardecho/image/main/image/zillow.png">
+</p>
 
 然后选租房（Rent），Home Type选 Houses、Townhomes，这样找到了就是出租的独栋别墅，那种Apartments/Condos/Coops咱看不上。当然你也可以选”For Sale”的，看看不要钱。
 
@@ -58,7 +60,9 @@
 
 选好以后点“Apply”，页面刷新后右边就会出现很多房子，大量的真实地址出现了，如图：
 
-![img](https://raw.githubusercontent.com/cardecho/image/main/image/usrealaddresss.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cardecho/image/main/image/usrealaddresss.png">
+</p>
 
 随便选了几个地址：
 
