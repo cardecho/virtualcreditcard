@@ -110,7 +110,7 @@
 
 ![img](https://raw.githubusercontent.com/cardecho/image/main/image/carddetalils.png)
 
-过期时间怎么填？如果是2025-03，当你去消费的时候，一般写成03/25，月在前，年在后。
+过期时间怎么填？如果是2029-03，当你去消费的时候，一般写成03/29，月在前，年在后。
 
 付款失败的原因：
 
