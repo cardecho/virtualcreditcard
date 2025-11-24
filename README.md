@@ -21,7 +21,7 @@
 经测试，本平台的卡支持的商家非常多，包括但不限于以下商家：
 
 - 美国亚马逊卖家、买家，Prime会员，德国，卢森堡，新加坡，法国，英国，澳大利亚，日本亚马逊买家
-- Facebook
+- Facebook，Google ADS, TIKTOK
 - PayPal：US、UK、Malaysia、Belgium、香港PayPal
 - alibaba(阿里国际站)，aliexpress(速卖通)，WISH，LAZADA，DHgate
 - Medium、MERCARI
