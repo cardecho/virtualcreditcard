@@ -22,7 +22,7 @@ CardEcho 新手指南：3分钟学会使用 USDT 充值
 - *操作提示：下载 App -> 注册实名 -> 在“C2C买币”区使用微信/支付宝购买 USDT。*
 - 有关购买USDT的细节，可以参考[如何在欧易购买USDT](https://github.com/cardecho/virtualcreditcard/blob/main/articles/USDT.md)
 
-## 🔵 第三部分：充值步骤（核心图解）
+## 🔵 第三部分：充值步骤
 
 ### 第 1 步：获取您的 CardEcho 充值地址
 
