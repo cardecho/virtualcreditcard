@@ -48,7 +48,7 @@ CardEcho 新手指南：3分钟学会使用 USDT 充值
    3. 币种选择 **USDT**，收款人选择“**非托管钱包**”，网络选择**"Tron(TRC20)"**
    4. **填写提现信息（关键步骤）：**
       - **地址：** 粘贴刚才在 CardEcho 复制的那串地址。或者直接扫码支付
-      - **提现网络：** **必须选择 TRC20 (TRX)**。
+      - **提现网络：** **必须选择 Tron(TRC20)**。
 		<p align="center">
 			<img src="https://raw.githubusercontent.com/cardecho/image/main/image/image-20251213001236395.png">
 		</p>
